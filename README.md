@@ -1,7 +1,7 @@
 ## Olá! Sou o Bruno Barbosa
 
 ❤️ Amo Java <br>
-📖 Atualmente aprofundando meus conhecimentos em Java e Spring Boot <br>
+📖 Atualmente aprofundando meus conhecimentos em Java e Spring Boot desenvolvendo projetos próprios<br>
 🧑‍🏫 Gosto de compartilhar conhecimento <br>
 
 <div align="center">
