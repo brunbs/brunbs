@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/brunbs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunbs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunbs&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunbs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunbs&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div align="center" style="display: inline_block"><br>
@@ -18,8 +18,6 @@
   <img align="center" alt="Bruno-CSS" height="100" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  ##
-  
   #### Top Repositories
 
 
@@ -29,11 +27,3 @@
 <a href="https://github.com/brunbs/REST_escola">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunbs&repo=REST_escola&theme=buefy" />
 </a>
-
-<br />
-<br />
-  
-<!---
-brunbs/brunbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
