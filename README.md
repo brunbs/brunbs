@@ -20,7 +20,6 @@
   
   #### Top Repositories
 
-
 <a href="https://github.com/brunbs/REST_loja">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunbs&repo=REST_loja&theme=buefy" />
 </a>
