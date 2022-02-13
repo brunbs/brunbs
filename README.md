@@ -1,8 +1,8 @@
 ## Olá! Sou o Bruno Barbosa
 
-❤️ Amo Java <br>
-📖 Atualmente aprofundando meus conhecimentos em Java e Spring Boot desenvolvendo projetos próprios<br>
-🧑‍🏫 Gosto de compartilhar conhecimento <br>
+❤️ Amo Back End <br>
+📖 Atualmente aprofundando meus conhecimentos em NodeJS e também Java com Spring Boot desenvolvendo projetos próprios<br>
+🧑‍🏫 Gosto de aprender e compartilhar conhecimento <br>
 
 <div align="center">
   <a href="https://github.com/brunbs">
