@@ -17,12 +17,3 @@
   <img align="center" alt="Bruno-HTML" height="100" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="100" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  
-  #### Top Repositories
-
-<a href="https://github.com/brunbs/REST_loja">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunbs&repo=REST_loja&theme=buefy" />
-</a>
-<a href="https://github.com/brunbs/api-curso-ingles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunbs&repo=api-curso-ingles&theme=buefy" />
-</a>
