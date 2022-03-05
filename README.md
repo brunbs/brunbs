@@ -23,6 +23,6 @@
 <a href="https://github.com/brunbs/REST_loja">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunbs&repo=REST_loja&theme=buefy" />
 </a>
-<a href="https://github.com/brunbs/REST_escola">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunbs&repo=REST_escola&theme=buefy" />
+<a href="https://github.com/brunbs/api-curso-ingles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunbs&repo=api-curso-ingles&theme=buefy" />
 </a>
