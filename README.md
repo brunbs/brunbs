@@ -1,8 +1,8 @@
 ## Olá! Sou o Bruno Barbosa
 
-❤️ Amo Back End <br>
-📖 Sou desenvolvedor Back end focado em Java com Spring Boot mas também tenho conhecimentos de Node.JS<br>
-🧑‍🏫 Gosto de aprender e compartilhar conhecimento <br>
+❤️ Amo Back End / ❤️ Back end developer enthusiast <br>
+📖 Sou desenvolvedor Back end focado em Java com Spring Boot / 📖 Back end developer focused on Spring Boot Java development <br>
+🧑‍🏫 Gosto de aprender e compartilhar conhecimento / 🧑‍🏫 Avid learner and love to share my knowledge <br>
 
 <div align="center">
   <a href="https://github.com/brunbs">
